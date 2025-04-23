@@ -21,7 +21,7 @@
 <div class="cabecalho">
 
     <div class="a">
-<a href="api/aula09_bd">|Início|</a>
+<a href="/aula09_bd">|Início|</a>
 
 
 
