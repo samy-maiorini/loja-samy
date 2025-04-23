@@ -55,7 +55,7 @@ echo "<a href=" .  BASE_URL . "/produtos/novo>Novo</a>|";
 
         <ul>
             <li class='item'>
-                <a href='<?=BASE_URL?>\login'>
+                <a href='<?=BASE_URL?>\login.php'>
                     <span class='icon'>
                     <i class='bi bi-person-fill'></i></span>
                     <span class='txt-link'>Login</span>
