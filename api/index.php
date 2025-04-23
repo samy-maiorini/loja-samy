@@ -21,7 +21,7 @@
 <div class="cabecalho">
 
     <div class="a">
-<a href="<?= BASE_URL ?>">|Início|</a>
+<a href="api/index.php">|Início|</a>
 
 
 
