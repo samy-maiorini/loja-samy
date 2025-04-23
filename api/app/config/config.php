@@ -3,7 +3,7 @@
  * Configurações do sistema.
  */
 
-define('BASE_URL', '/aula09_bd'); // Local
+define('BASE_URL', '/api/aula09_bd'); // Local
 // define('BASE_URL', null); // Online
 
 /**
